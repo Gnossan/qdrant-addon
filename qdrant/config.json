@@ -1,6 +1,6 @@
 {
   "name": "Qdrant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "slug": "qdrant",
   "description": "Qdrant vector database for Home AI",
   "arch": ["aarch64", "amd64"],
